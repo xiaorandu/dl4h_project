@@ -95,7 +95,7 @@ For GraphMVP, check this [repo](https://github.com/chao1224/GraphMVP), and the c
 ### Baseline KV-PLM
 For KV-PLM, check this [repo](https://github.com/thunlp/KV-PLM) and checkpoints on [Google Drive link](https://drive.google.com/drive/folders/1xig3-3JG63kR-Xqj1b9wkPEdxtfD_4IX).
 
-### Checkpoints for MeleculeSTM
+### Checkpoints for MoleculeSTM
 It can be downloaded by using the following python script:
 ```
 from huggingface_hub import HfApi, snapshot_download
